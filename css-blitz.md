@@ -175,8 +175,6 @@ document.head.removeChild(link);
 
 </details>
 
-Создам в формате таблицы, как на фото, с вопросами начиная с #4:
-
 ### 4. Вопрос:
 
 **В чем разница между `block`, `inline` и `inline-block`?**
